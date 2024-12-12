@@ -35,3 +35,5 @@ build/
 # .gitignore
 .env
 
+.DS_Store
+
